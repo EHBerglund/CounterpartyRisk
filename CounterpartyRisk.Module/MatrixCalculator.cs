@@ -8,7 +8,6 @@ namespace CounterpartyRisk.Module
 {
     public class MatrixCalculator
     {
-
         public double[] Multiply(double[][] matrix, double[] array)
         {
             // Dette er en generell utregning av "Matrise u" ganget med "TLGD". Bruker ingen input.

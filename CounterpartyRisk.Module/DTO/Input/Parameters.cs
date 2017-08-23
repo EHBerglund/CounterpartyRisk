@@ -19,6 +19,5 @@ namespace CounterpartyRisk.Module.DTO
         public double SumReinsurersShareSimplified { get; set; }
         public double LossPotentialWithoutReinsurance { get; set; }
         public double LossPotentialWithReinsurance { get; set; }
-
     }
 }
